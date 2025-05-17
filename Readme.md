@@ -12,7 +12,7 @@ This repository contains the code, datasets, and documentation for the project c
 - Evaluate model performance using accuracy, F1-score, Intersection over Union (IoU), and inference time.
 
 ## Setup
-- **Python**: 3.9.11
+- **Python**: 3.10.11
 - **Install dependencies**:
   ```bash
   pip install -r requirements.txt
