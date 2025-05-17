@@ -3,7 +3,7 @@
 ## Overview
 PlantStressAI is a research project focused on developing lightweight AI models for diagnosing plant stress in small-scale farming. The project compares Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to identify environmental and nutritional stresses in crops, optimizing for edge deployment on resource-constrained devices like smartphones or drones. The primary dataset used is EarlyNSD, with additional experiments incorporating the Groundnut Leaf Dataset.
 
-This repository contains the code, datasets, and documentation for the project conducted by Janarthan Aravindan Aathavan, Ellawela Liyanage Jayathilake, and Alyssa Ren from the University at Buffalo.
+This repository contains the code, datasets, and documentation for the project conducted by Janarthan Aravindan Aathavan, Ellawela Liyanage Jayathilake from the University at Buffalo.
 
 ## Project Goals
 - Develop and compare lightweight AI models (ViT-Tiny, ResNet-18, MobileViT, and ViT with spatial attention) for plant stress classification.
